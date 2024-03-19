@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Lottotech App",
+  "name": "Lottotech React App",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,7 +8,17 @@
       "type": "image/x-icon"
     },
     {
+      "src": "lotto.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
       "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "lotto192.png",
       "type": "image/png",
       "sizes": "192x192"
     },

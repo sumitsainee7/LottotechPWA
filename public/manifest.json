@@ -2,31 +2,99 @@
   "short_name": "Lottotech App",
   "name": "Lottotech React App",
   "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
+    
     {
       "src": "lotto.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/png"
     },
-    {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
+    
     {
       "src": "lotto192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "cart.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "36x36"
+    },
+    {
+      "src": "cart02.png",
+      "type": "image/png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "home.png",
+      "type": "image/png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "home_selected.png",
+      "type": "image/png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "new_notification.png",
+      "type": "image/png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "notification.png",
+      "type": "image/png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "play.png",
+      "type": "image/png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "play_selected.png",
+      "type": "image/png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "resluts.png",
+      "type": "image/png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "settings.png",
+      "type": "image/png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "results_selected.png",
+      "type": "image/png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "setting_selected.png",
+      "type": "image/png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "scan.png",
+      "type": "image/png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "scan_selected.png",
+      "type": "image/png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "scan.png",
+      "type": "image/png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "27x9"
     }
+    
   ],
   "start_url": ".",
   "display": "standalone",

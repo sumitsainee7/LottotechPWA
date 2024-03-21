@@ -1,5 +1,5 @@
 import React from "react";
-function Notifications() {
+function Results() {
     return (
         <>
         <div className="card">
@@ -8,7 +8,7 @@ function Notifications() {
         
       </div>
         <div>
-            <h1>Notifications Componant</h1>
+            <h1>Results Componant</h1>
         </div>
         <div className="card">
         <div className="card-body"></div>
@@ -17,4 +17,4 @@ function Notifications() {
         </>
     );
 }
-export default Notifications;
+export default Results;
